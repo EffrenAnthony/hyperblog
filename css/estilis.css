@@ -1,11 +1,10 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
-    padding: 20px;
+    color: deeppink;    
     margin: 20px;
-    border: solid 1px deeppink;
     border-radius: 50px;
+    margin: 0;
 
 }
 
@@ -18,4 +17,13 @@ body h1{
 
 .conflicto{
     color: black;
+}
+
+footer{
+    color: white;
+    background-color: deeppink;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 0;
 }
